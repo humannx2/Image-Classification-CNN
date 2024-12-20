@@ -1,4 +1,6 @@
 tensorflow
+tensorflow-datasets
+scikit-learn
 keras
 numpy
 ipykernel
