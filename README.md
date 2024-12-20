@@ -41,25 +41,6 @@ The dataset used is the **Cats vs Dogs** dataset, which contains labeled images 
 To run this project, you need to install the following Python libraries:
 - `tensorflow` (for building and training the CNN)
 - `numpy` (for array operations)
-- `matplotlib` (for plotting graphs)
-- `seaborn` (for visualizing confusion matrix)
+- `keras` (for model building)
 
 You can install these dependencies using `pip`:
-
-bash
-''' pip install tensorflow numpy matplotlib seaborn '''
-
-### Explanation:
-- **Project Overview**: Explains what the project does and the core concepts.
-- **Dataset**: Describes the structure and contents of the dataset.
-- **Dependencies**: Lists the libraries required to run the project and provides installation instructions.
-- **File Structure**: Provides an overview of the project directory structure for clarity.
-- **Getting Started**: Provides steps to set up the environment, install dependencies, prepare the dataset, and run the training and evaluation scripts.
-- **Model Overview**: Describes the architecture of the CNN model used for classification.
-- **Model Evaluation**: Explains how the model is evaluated and the metrics used to assess its performance.
-- **Results**: Discusses the expected results and evaluation details.
-- **Contributing**: Encourages collaboration and contributions from other developers.
-- **License**: Includes information on the project's licensing.
-
-You can modify the contents according to your project's specific details.
-
